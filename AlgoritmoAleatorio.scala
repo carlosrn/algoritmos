@@ -1,6 +1,6 @@
 import scala.util.Random
 
-object Aleatorio{
+object AlgoritmoAleatorio{
 def main(args:Array[String]){
 
 var A=Array(5,2,8,4,1)
